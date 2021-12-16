@@ -1,2 +1,9 @@
-# test_repository
-test
+# ひと言掲示板
+
+## 初めて作った掲示板です。
+
+_言語　python3_
+
+作成者　kazuki
+
+著作権 なし
